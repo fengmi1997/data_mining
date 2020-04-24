@@ -7,7 +7,6 @@ from sklearn import metrics
 from sklearn.metrics import silhouette_score
 
 # 数据挖掘大作业
-# by 翟艺伟，学号：2018201653
 
 # 读取excel
 pf = pd.read_excel('id_curriculum.xls', sheet_name='Sheet1')
