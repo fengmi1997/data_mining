@@ -5,7 +5,6 @@ from sklearn.cluster import KMeans
 from sklearn.manifold import TSNE
 
 # 数据挖掘大作业
-# by 翟艺伟，学号：2018201653
 
 # 读取excel
 pf = pd.read_excel('grade_original.xls', sheet_name='Sheet0')
